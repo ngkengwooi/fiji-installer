@@ -5,7 +5,7 @@ Inno Setup script to create Windows installers for [Fiji (is just ImageJ)](https
 
 I have not provided an installer as I am not sure whether the licence allows me to redistribute the software including the bundled JRE. Frankly I have no time to read through all the licences at the moment. So I am providing the script and instruction on how to create the installer instead. 
 
-## How to use the script
+## How to create the installer
 
 1. You will need [Inno Setup](https://jrsoftware.org/isdl.php). Download the Unicode Inno Setup self-installing package and install it on your Windows computer.
 2. Open the appropriate `.iss` script from this repository in Inno Setup:
