@@ -1,5 +1,5 @@
 # fiji-installer
-Inno Setup script to create Windows installers for [Fiji (is just ImageJ)](https://imagej.net/Fiji).
+Inno Setup script to create Windows installers for [Fiji (Is Just ImageJ)](https://imagej.net/Fiji).
 
 ## Where's the installer?
 
