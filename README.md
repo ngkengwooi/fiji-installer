@@ -18,4 +18,4 @@ I have not provided an installer as I am not sure whether the licence allows me 
 5. Adjust the version number (`#MyAppVersion`) in the `.iss` file, as appropriate.
   - I am not too sure what to use for the version number myself. Looks like it's versioned by timestamp. You can check previous releases [here](https://downloads.imagej.net/fiji/archive/).
 6. Click the Compile button in Inno Setup. This will create an installer named `fiji-<version>-win32-setup.exe` or `fiji-<version>-win64-setup.exe` in the same folder as the `.iss` file.
-7. Run the installer to install Fiji on your Windows computer.
+7. Run the installer to install Fiji on your Windows computer and verify that it works as intended.
